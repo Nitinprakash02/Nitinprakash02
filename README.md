@@ -3,9 +3,13 @@
 <h2>👩‍💻 Programming Languages </h2>
 <div class = "lang">
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
-<img src="https://img.shields.io/badge/-C Sharp-F3F7FA?logo=c sharp&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="C Sharp">
+<img src="https://img.shields.io/badge/-C Sharp-F3F7FA?logo=c sharp&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="C#">
 <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=c++&logoColor=00599C&style=for-the-badge&logoWidth=30" alt="C++">
-<img src="https://img.shields.io/badge/-R-F3F7FA?logo=r&logoColor=276DC3&style=for-the-badge&logoWidth=30" alt="R">
+<img src="https://img.shields.io/badge/-R-F3F7FA?logo=r&logoColor=276DC3&style=for-the-badge&logoWidth=30" alt="C">
+<img src="https://img.shields.io/badge/-HTML-F3F7FA?logo=python&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML">
+<img src="&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="CSS">
+<img src="&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+<img src="&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JQuery">
 <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JavaScript">
 </div>
 
