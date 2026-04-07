@@ -25,7 +25,7 @@ across healthcare, consulting, and enterprise IT.
 
 <div align="center">
 
-| 💰 $20M | ⏱️ 15–17 hrs/day | 🤖 20+ Processes | 👥 40+ Trained |
+| 💰 $20M | ⏱️ 15–17 hrs/day | 🤖 50+ Processes | 👥 40+ Trained |
 |:---:|:---:|:---:|:---:|
 | Client savings delivered | Operational capacity recovered | RPA solutions deployed | Employees upskilled |
 
