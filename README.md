@@ -107,7 +107,7 @@ across healthcare, consulting, and enterprise IT.
 2017 ──► Excelsoft Technologies      Trainee Programmer · RPA R&D
 2018 ──► Symphony Ventures           RPA Consultant · $20M impact
 2021 ──► WNS Global Services         Assistant Manager · RPA
-2021 ──► Information Services Group         RPA Consultant · 15–17 hrs saved/day
+2021 ──► Information Services Group  RPA Consultant · 15–17 hrs saved/day
 2023 ──► WellStar Health System      IPA Developer · Healthcare
 2024 ──► Tata Consulting Services    Senior Engineer · Present
 ```
